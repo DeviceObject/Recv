@@ -1,0 +1,3 @@
+LPWSTR UTF8_2_UTF16(LPSTR strSource);
+LPSTR UnicodeToANSI(LPWSTR str);
+BOOLEAN AddRegStart();

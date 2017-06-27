@@ -1,0 +1,3 @@
+
+void SetBlackGreen();
+void ShowWelcome();
